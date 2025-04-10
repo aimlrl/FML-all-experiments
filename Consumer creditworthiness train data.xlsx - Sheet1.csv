@@ -1,0 +1,522 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+294853,Male,No,0,Graduate,No,1316025,0,250000,360,1,Urban,Y
+162883,Male,Yes,1,Graduate,No,1031175,339300,256000,360,1,Rural,N
+620668,Male,Yes,0,Graduate,Yes,675000,0,132000,360,1,Urban,Y
+295747,Male,Yes,0,Not Graduate,No,581175,530550,240000,360,1,Urban,Y
+133390,Male,No,0,Graduate,No,1350000,0,282000,360,1,Urban,Y
+922093,Male,Yes,2,Graduate,Yes,1218825,944100,534000,360,1,Urban,Y
+804795,Male,Yes,0,Not Graduate,No,524925,341100,190000,360,1,Urban,Y
+538051,Male,Yes,3+,Graduate,No,683100,563400,316000,360,0,Semiurban,N
+617715,Male,Yes,2,Graduate,No,901350,343350,336000,360,1,Urban,Y
+696993,Male,Yes,1,Graduate,No,2889225,2467800,698000,360,1,Semiurban,N
+661683,Male,Yes,2,Graduate,No,720000,157500,140000,360,1,Urban,Y
+312206,Male,Yes,2,Graduate,,562500,414000,218000,360,1,Urban,Y
+357855,Male,Yes,2,Graduate,No,691425,1823850,400000,360,1,Urban,Y
+810400,Male,No,0,Graduate,No,416925,639000,228000,360,1,Rural,N
+557421,Male,Yes,2,Graduate,No,292275,244350,34000,120,1,Urban,Y
+675531,Male,No,0,Graduate,No,1113750,0,250000,360,1,Urban,Y
+325054,Male,No,1,Not Graduate,No,809100,0,200000,240,,Urban,Y
+858757,Female,No,0,Graduate,No,789750,0,152000,360,0,Urban,N
+307804,Male,Yes,0,Not Graduate,No,1099575,0,266000,360,1,Rural,N
+342238,Male,Yes,0,Graduate,,585000,787500,230000,,1,Urban,Y
+911473,Male,Yes,0,Not Graduate,No,1723500,0,208000,360,0,Urban,N
+494912,Male,Yes,1,Graduate,No,1339875,1265625,630000,360,1,Urban,Y
+146973,Male,Yes,0,Not Graduate,No,585000,429975,232000,360,0,Semiurban,N
+416319,,Yes,2,Not Graduate,No,757125,431325,224000,360,0,Rural,N
+776219,Male,Yes,1,Graduate,,836325,658125,302000,360,,Semiurban,N
+319041,Male,Yes,0,Graduate,Yes,2151000,0,382000,360,1,Semiurban,Y
+226332,Male,Yes,0,Graduate,No,629775,506925,244000,360,1,Semiurban,Y
+773064,Male,Yes,2,Not Graduate,No,950850,234000,220000,360,1,Urban,Y
+855460,Male,No,0,Not Graduate,No,324450,0,70000,360,1,Urban,N
+638217,Female,No,2,Graduate,,843750,468675,240000,360,1,Semiurban,Y
+844094,Male,Yes,1,Graduate,,937350,758025,402000,360,,Urban,N
+262773,Male,No,0,Graduate,No,712575,0,148000,360,1,Urban,N
+149516,Male,No,1,Graduate,Yes,1055700,0,212000,360,1,Rural,N
+271492,Male,Yes,0,Graduate,No,787500,375075,228000,360,1,Semiurban,Y
+198315,Male,No,3+,Graduate,No,2812500,675000,640000,360,1,Rural,N
+311706,Male,Yes,0,Graduate,No,511875,465075,0,360,1,Urban,Y
+456712,Male,Yes,0,Graduate,No,411300,299250,200000,,0,Urban,N
+415152,Female,Yes,0,Graduate,No,825075,328275,288000,360,1,Semiurban,Y
+221618,Male,No,0,Graduate,No,937350,1622250,368000,360,1,Urban,Y
+954893,Male,No,0,Not Graduate,No,843300,375300,220000,360,1,Semiurban,Y
+580381,Male,No,0,Graduate,No,810000,0,160000,360,1,Urban,N
+119287,Male,No,0,Graduate,No,405000,272925,94000,360,1,Urban,Y
+727995,Male,Yes,0,Graduate,No,540000,0,150000,360,,Urban,Y
+978353,Male,Yes,0,Graduate,No,886725,525600,268000,360,1,Semiurban,Y
+342635,Male,Yes,0,Not Graduate,Yes,1056375,0,192000,,1,Urban,Y
+546000,Female,No,0,Graduate,No,767250,0,176000,,1,Urban,Y
+753278,Male,Yes,1,Graduate,No,1271025,0,88000,360,1,Urban,Y
+801028,Male,Yes,0,Graduate,No,1309725,0,288000,360,1,Urban,Y
+575003,Female,Yes,0,Graduate,No,595125,774000,240000,360,0,Urban,N
+915052,Female,No,0,Graduate,No,900000,511875,288000,360,1,Semiurban,Y
+471125,Female,Yes,0,Not Graduate,No,433800,369900,200000,360,1,Semiurban,Y
+208025,Female,No,0,Graduate,No,694350,0,240000,360,1,Semiurban,Y
+761989,Female,No,0,Graduate,No,951750,0,224000,360,1,Semiurban,N
+541898,Male,Yes,2,Graduate,No,1038600,0,268000,360,1,Urban,N
+392029,Female,Yes,1,Graduate,Yes,2587500,0,572000,360,0,Urban,N
+695363,Male,Yes,2,Graduate,No,609300,262575,194000,360,1,Semiurban,Y
+127087,Male,Yes,0,Graduate,No,479700,357975,192000,360,1,Semiurban,Y
+819942,Male,Yes,0,Graduate,No,757350,495000,270000,360,1,Rural,N
+314492,Male,Yes,1,Graduate,No,1818000,506250,360000,360,1,Urban,Y
+281836,Male,Yes,2,Not Graduate,No,755325,643275,288000,360,1,Urban,Y
+937544,Male,Yes,0,Graduate,No,562500,854100,240000,360,1,Urban,Y
+827645,Male,Yes,3+,Graduate,No,681525,0,198000,360,1,Urban,Y
+407154,Male,Yes,0,Not Graduate,Yes,587025,776025,330000,180,0,Rural,N
+641557,Male,Yes,1,Graduate,No,1112625,0,0,360,0,Rural,N
+125227,Female,No,0,Graduate,No,937350,0,232000,360,0,Semiurban,N
+821307,Male,Yes,0,Graduate,No,1288350,1033875,516000,360,1,Semiurban,N
+581895,Male,No,0,Not Graduate,No,720000,507150,252000,180,0,Urban,N
+762700,Male,Yes,1,Graduate,No,2418750,0,624000,360,1,Urban,Y
+602684,Male,Yes,3+,Not Graduate,Yes,1597500,0,250000,60,1,Urban,Y
+500771,Female,No,0,Graduate,No,967500,0,272000,360,0,Semiurban,N
+373338,Male,Yes,0,Graduate,No,721800,689850,344000,360,1,Urban,Y
+516159,Male,Yes,2,Not Graduate,Yes,421875,421875,194000,360,1,Semiurban,Y
+650697,Male,No,0,Graduate,No,787500,0,162000,300,1,Semiurban,Y
+804903,Male,Yes,3+,Not Graduate,No,1069875,0,190000,,0,Semiurban,N
+276243,Male,Yes,3+,Graduate,Yes,1184850,399150,374000,360,1,Semiurban,Y
+706434,Male,No,0,Graduate,No,843750,0,226000,480,1,Urban,N
+841980,Male,No,0,Graduate,No,843750,1068750,352000,360,1,Urban,N
+581747,Male,Yes,1,Graduate,Yes,225000,679950,220000,360,1,Urban,N
+220459,Male,Yes,3+,Graduate,No,712575,900000,360000,300,0,Semiurban,N
+272664,Male,Yes,3+,Not Graduate,Yes,749925,487350,260000,360,,Semiurban,Y
+941799,Female,No,0,Graduate,No,865350,0,222000,360,1,Semiurban,Y
+596387,Male,Yes,1,Graduate,Yes,538875,0,0,360,1,Semiurban,Y
+884565,Female,Yes,2,Graduate,No,310050,423225,334000,360,1,Urban,N
+619233,Male,Yes,0,Graduate,No,1350000,506250,530000,360,,Semiurban,N
+527601,Male,Yes,1,Graduate,No,897300,0,100000,240,1,Urban,Y
+790506,Male,No,0,Graduate,No,532350,569475,272000,360,1,Semiurban,Y
+543412,Male,Yes,2,Not Graduate,No,749925,450000,198000,360,,Semiurban,Y
+558480,Male,Yes,0,Graduate,No,562500,476550,208000,360,1,Semiurban,Y
+790588,Male,No,0,Graduate,No,1927350,0,420000,360,1,Urban,Y
+413191,Male,Yes,0,Graduate,No,1281375,937575,350000,360,1,Semiurban,Y
+894609,Male,Yes,0,Graduate,No,665550,652500,262000,360,1,Semiurban,Y
+918652,Male,Yes,2,Graduate,No,1406250,1272150,376000,180,1,Semiurban,Y
+941002,Male,Yes,2,Not Graduate,No,736425,409500,162000,360,1,Urban,Y
+348978,Male,No,0,Graduate,No,929925,0,244000,360,1,Semiurban,Y
+492616,Male,No,0,Not Graduate,No,814500,0,50000,120,1,Semiurban,Y
+782550,Male,No,0,Graduate,,1525950,0,0,360,,Urban,N
+946950,Female,Yes,0,Graduate,No,558900,517950,274000,360,1,Semiurban,Y
+678935,Male,Yes,0,Graduate,No,444825,224325,100000,360,1,Semiurban,Y
+791382,Male,Yes,0,Not Graduate,No,942300,0,230000,180,1,Semiurban,Y
+296373,Male,Yes,0,Graduate,No,395775,796725,262000,360,1,Semiurban,Y
+990456,Male,Yes,2,Not Graduate,No,964800,734175,266000,180,1,Urban,Y
+238760,Male,No,0,Graduate,No,1089675,856350,302000,360,1,Semiurban,Y
+343597,Male,Yes,,Graduate,No,3071250,0,0,360,1,Urban,Y
+549111,Male,Yes,0,Graduate,No,1046700,806175,0,360,1,Semiurban,Y
+114100,Male,,,Graduate,No,858600,169650,320000,360,1,Urban,Y
+841656,Male,Yes,1,Graduate,No,686700,231750,200000,360,1,Urban,Y
+163505,Male,Yes,2,Graduate,No,2568825,253350,450000,360,1,Urban,Y
+799960,Male,No,0,Not Graduate,,1649925,0,240000,360,1,Rural,N
+319740,Male,Yes,2,Graduate,No,855000,810000,432000,360,0,Urban,N
+727444,Male,Yes,3+,Not Graduate,No,465975,169650,188000,480,1,Semiurban,Y
+269985,Male,No,0,Graduate,No,1196100,0,272000,360,1,Urban,Y
+806403,Female,Yes,0,Graduate,,659025,524925,278000,360,1,Semiurban,Y
+775250,Male,Yes,0,Not Graduate,No,803700,925650,304000,,0,Rural,N
+102013,Female,No,1,Graduate,Yes,1676475,0,0,360,1,Semiurban,Y
+104139,Male,No,0,Graduate,,1136250,0,236000,360,1,Semiurban,Y
+271263,Male,Yes,1,Graduate,No,3281175,0,370000,180,1,Rural,Y
+621427,Female,Yes,0,Graduate,No,712575,513675,308000,360,1,Semiurban,Y
+798461,Male,Yes,1,Graduate,No,498150,314550,170000,360,,Urban,Y
+266744,Male,Yes,0,Graduate,No,1252800,481950,350000,360,1,Rural,N
+423065,Female,No,0,Graduate,No,2341800,0,518000,360,1,Urban,Y
+187026,Male,Yes,,Graduate,No,1275075,600075,360000,360,1,Rural,Y
+501104,Female,No,0,Graduate,No,937350,0,88000,360,1,Semiurban,Y
+190953,Female,No,0,Graduate,No,480825,2020500,274000,360,0,Semiurban,Y
+193151,Male,Yes,2,Graduate,No,665325,0,162000,360,1,Semiurban,Y
+303498,Male,Yes,0,Not Graduate,No,967500,453150,388000,360,1,Rural,Y
+419393,Female,No,0,Graduate,No,830700,0,186000,360,,Rural,Y
+874101,,Yes,3+,Graduate,No,5355675,0,740000,360,1,Rural,Y
+151352,Male,No,0,Graduate,No,869625,369000,0,360,1,Rural,Y
+527085,Male,Yes,1,Graduate,Yes,2365425,866250,320000,180,0,Urban,N
+683089,Male,Yes,0,Graduate,No,1368000,578025,364000,360,,Rural,N
+702085,Male,No,0,Graduate,Yes,4537350,0,1300000,480,,Urban,Y
+419034,Male,No,0,Graduate,No,453150,434025,148000,360,1,Urban,Y
+702152,Male,No,0,Graduate,No,611550,0,140000,360,1,Semiurban,Y
+117576,Male,Yes,0,Graduate,Yes,778275,0,50000,120,1,Semiurban,Y
+136907,Male,No,0,Graduate,No,1101375,0,204000,360,1,Semiurban,Y
+410417,Male,Yes,3+,Graduate,No,900000,1743750,580000,360,1,Semiurban,N
+910418,Female,Yes,0,Graduate,No,1031175,0,168000,360,1,Rural,N
+808519,Male,Yes,2,Graduate,Yes,746100,787500,176000,360,1,Urban,Y
+962946,Male,No,0,Graduate,No,3374775,0,484000,360,0,Semiurban,N
+844145,Male,Yes,2,Not Graduate,No,945000,321750,258000,360,1,Rural,N
+645074,Male,Yes,2,Graduate,No,1134450,468675,370000,360,1,Rural,N
+635015,Male,No,0,Graduate,No,1218825,0,336000,360,1,Urban,Y
+616227,Male,No,0,Graduate,Yes,1563750,0,350000,180,1,Semiurban,Y
+531223,Male,Yes,0,Graduate,No,607050,457650,244000,360,1,Semiurban,Y
+852047,Male,Yes,2,Graduate,No,2645325,0,374000,180,1,Urban,Y
+559331,Female,Yes,0,Graduate,No,524250,1009350,200000,360,1,Semiurban,Y
+698189,Female,Yes,2,Graduate,No,3344850,0,140000,360,1,Urban,Y
+287495,Male,Yes,1,Graduate,No,346050,320625,60000,360,1,Urban,Y
+446808,Female,No,0,Graduate,No,2250000,374850,450000,360,1,Rural,N
+121094,Male,Yes,0,Graduate,No,1093500,186750,250000,360,1,Semiurban,Y
+499982,Male,No,0,Graduate,No,1412325,0,236000,360,0,Rural,N
+597694,Male,Yes,0,Graduate,Yes,579825,843750,304000,360,1,Rural,Y
+236878,Male,No,0,Graduate,No,2062350,0,488000,360,1,Urban,N
+368231,Male,Yes,2,Not Graduate,No,513225,0,226000,360,1,Rural,N
+219016,Male,No,0,Graduate,No,732150,0,100000,360,1,Urban,Y
+246914,Male,Yes,3+,Graduate,No,8999775,0,1200000,180,0,Semiurban,Y
+885142,Male,Yes,1,Graduate,No,1350000,0,320000,360,,Rural,Y
+846444,Male,Yes,1,Graduate,No,2146050,0,374000,360,1,Urban,Y
+140148,Male,No,0,Graduate,,670500,468675,240000,360,1,Rural,Y
+334116,Male,Yes,0,Graduate,No,1031175,1265625,510000,360,1,Semiurban,Y
+828124,Male,Yes,0,Not Graduate,No,419175,234225,196000,360,1,Semiurban,Y
+362254,Male,Yes,0,Graduate,No,1784925,0,550000,360,1,Urban,N
+657998,Male,Yes,1,Graduate,No,695025,288000,242000,360,0,Semiurban,N
+475310,Male,Yes,2,Graduate,No,937575,325575,316000,360,1,Rural,Y
+647615,Male,Yes,0,Graduate,No,2097675,0,150000,180,1,Urban,Y
+349592,Male,Yes,0,Graduate,No,834075,712350,364000,,1,Rural,Y
+738104,Female,Yes,0,Graduate,No,1031175,0,224000,360,1,Rural,N
+264069,Male,Yes,0,Graduate,No,548775,749925,258000,360,1,Rural,Y
+905520,Male,No,0,Graduate,No,503325,0,126000,480,0,Semiurban,N
+643209,Male,Yes,2,Graduate,No,1800000,0,400000,360,1,Semiurban,Y
+336054,Male,Yes,0,Not Graduate,,409500,398025,190000,360,1,Rural,Y
+646048,,Yes,3+,Graduate,No,11646675,0,1400000,300,1,Urban,Y
+371630,Male,Yes,3+,Not Graduate,No,792450,0,162000,180,1,Rural,N
+271393,Male,Yes,0,Graduate,No,1284300,1265625,374000,360,1,Semiurban,Y
+400834,Male,Yes,0,Not Graduate,Yes,977400,165600,174000,360,1,Semiurban,N
+620146,Male,Yes,0,Graduate,No,786825,441900,232000,360,1,Rural,Y
+998081,Male,Yes,2,Graduate,No,460125,364275,202000,360,1,Rural,Y
+808078,Male,Yes,3+,Graduate,No,1241100,2542500,990000,360,0,Semiurban,N
+415986,Male,Yes,1,Graduate,No,843750,0,232000,360,1,Semiurban,Y
+944477,Male,No,0,Not Graduate,No,524925,326475,204000,480,0,Urban,N
+878135,Male,Yes,1,Graduate,No,1440000,1631250,360000,360,0,Urban,N
+647566,Male,No,0,Graduate,No,431100,1139175,134000,360,,Rural,N
+744022,Male,Yes,0,Graduate,No,1035000,0,146000,180,1,Semiurban,Y
+936171,Male,Yes,1,Graduate,No,7615350,0,520000,360,1,Semiurban,N
+709086,Female,Yes,0,Graduate,No,815625,0,216000,360,1,Semiurban,Y
+881568,Male,Yes,0,Graduate,Yes,8808075,1068750,240000,360,1,Semiurban,Y
+846691,Male,Yes,1,Graduate,Yes,490050,0,132000,300,0,Rural,N
+245158,Male,Yes,0,Graduate,No,536175,481050,116000,360,,Rural,Y
+578889,,Yes,0,Graduate,Yes,151650,1191600,336000,360,1,Rural,Y
+755116,Male,Yes,0,Graduate,No,2098800,0,376000,180,1,Rural,Y
+735993,Male,No,0,Not Graduate,No,1099125,0,96000,360,1,Rural,Y
+815795,Male,No,0,Graduate,No,2700000,0,328000,360,1,Semiurban,N
+869383,Male,Yes,0,Not Graduate,No,1357425,0,320000,360,1,Urban,N
+138878,Male,No,0,Graduate,No,868050,0,152000,360,1,Semiurban,Y
+129474,Male,No,0,Graduate,No,942975,0,240000,360,1,Rural,Y
+650428,Male,Yes,1,Graduate,No,703125,581175,340000,360,1,Semiurban,N
+944617,Male,No,0,Graduate,No,1874925,843750,374000,360,1,Rural,Y
+166462,Female,No,0,Not Graduate,No,429075,532125,240000,,1,Urban,Y
+983039,Female,Yes,0,Graduate,No,768600,633600,226000,360,,Semiurban,Y
+233242,Male,No,0,Graduate,Yes,2475000,0,166000,360,1,Urban,N
+467975,Male,Yes,1,Not Graduate,No,585000,562500,180000,360,1,Semiurban,Y
+837378,Male,No,2,Graduate,No,1107675,0,332000,360,0,Semiurban,Y
+592169,Male,Yes,3+,Not Graduate,No,898200,0,0,180,1,Urban,N
+503327,Male,Yes,1,Not Graduate,No,787500,243675,270000,360,1,Urban,Y
+741438,Male,Yes,2,Not Graduate,No,881325,0,248000,360,1,Semiurban,Y
+613320,Female,No,0,Not Graduate,No,991800,0,240000,360,1,Semiurban,Y
+912655,Female,No,0,Graduate,No,729900,0,160000,360,1,Urban,Y
+894216,Male,No,0,Not Graduate,No,894375,569475,110000,360,1,Rural,Y
+395368,Male,No,0,Graduate,No,557775,0,118000,360,1,Urban,Y
+338141,Male,No,0,Graduate,No,769050,0,254000,360,1,Semiurban,N
+378180,Female,No,0,Graduate,No,2250000,0,428000,360,1,Semiurban,N
+592737,Male,Yes,3+,Graduate,No,771750,281250,256000,360,0,Semiurban,N
+323592,Male,Yes,1,Graduate,Yes,1752075,0,480000,360,1,Urban,Y
+983264,Male,Yes,3+,Not Graduate,Yes,1283175,0,260000,360,1,Rural,Y
+857685,Male,Yes,0,Graduate,No,713925,679725,274000,360,1,Urban,Y
+687564,Male,Yes,3+,Not Graduate,No,866250,221175,200000,360,1,Semiurban,Y
+976402,Male,Yes,0,Graduate,No,33750,405000,270000,360,1,Rural,N
+267778,Male,Yes,0,Graduate,No,838575,399375,262000,360,1,Semiurban,Y
+893057,Male,Yes,2,Graduate,,1125000,0,144000,360,0,Semiurban,N
+343902,Female,Yes,2,Graduate,No,963675,536175,254000,360,,Semiurban,Y
+895376,Male,Yes,0,Graduate,No,499725,0,120000,360,0,Urban,N
+125712,Male,Yes,2,Graduate,No,902025,386325,232000,360,1,Semiurban,Y
+279550,Male,No,0,Graduate,No,668475,627975,288000,360,1,Semiurban,Y
+322083,Male,Yes,0,Graduate,No,1705050,227250,350000,,1,Semiurban,Y
+474420,Male,Yes,0,Graduate,No,1406250,0,256000,360,1,Semiurban,Y
+384728,Male,Yes,0,Graduate,No,731250,0,340000,360,1,Rural,N
+921694,Male,Yes,,Not Graduate,Yes,1065375,0,276000,360,1,Urban,N
+101559,Male,Yes,2,Graduate,No,1406250,381375,420000,360,1,Semiurban,Y
+133107,Male,,,Graduate,No,1070550,0,316000,480,1,Semiurban,Y
+403391,Male,No,0,Graduate,Yes,1440000,0,400000,360,1,Rural,Y
+951271,Male,Yes,1,Graduate,No,560475,462150,208000,360,1,Semiurban,Y
+941496,Male,Yes,0,Graduate,,836100,0,84000,180,1,Rural,Y
+343581,Male,No,0,Not Graduate,No,717525,584550,240000,,1,Rural,Y
+167960,Female,No,0,Graduate,No,1874925,0,560000,360,1,Semiurban,Y
+404712,Male,Yes,1,Graduate,No,709875,400275,280000,360,1,Semiurban,Y
+782510,Male,Yes,1,Graduate,No,1237500,283500,340000,360,1,Rural,Y
+445018,Male,Yes,0,Graduate,,1292850,0,510000,360,,Urban,N
+479565,Female,No,0,Graduate,Yes,779175,0,244000,360,,Urban,Y
+973972,Female,No,1,Graduate,No,857700,0,224000,360,1,Rural,Y
+659339,Male,Yes,1,Graduate,No,745875,0,192000,360,1,Semiurban,Y
+273204,Male,Yes,2,Graduate,No,1309275,1125000,240000,360,1,Rural,Y
+137763,Male,Yes,1,Not Graduate,No,564750,446175,280000,180,1,Urban,N
+111783,Male,No,0,Graduate,No,667125,1282725,310000,60,1,Urban,Y
+948181,Male,Yes,2,Graduate,Yes,1406250,292500,216000,360,1,Rural,Y
+548693,Male,Yes,0,Not Graduate,No,766350,993825,246000,360,1,Semiurban,Y
+949264,Male,No,0,Graduate,Yes,1361250,974925,240000,180,1,Urban,N
+962174,Male,Yes,2,Graduate,No,2183175,0,224000,360,1,Urban,Y
+287120,Male,Yes,1,Not Graduate,No,1486800,0,274000,180,1,Urban,Y
+704316,Male,Yes,1,Graduate,No,648450,414675,246000,480,1,Semiurban,Y
+615780,Male,Yes,0,Graduate,No,407025,420300,180000,360,1,Urban,Y
+561269,Male,Yes,0,Not Graduate,No,375300,875250,402000,360,0,Semiurban,N
+550832,Female,No,2,Graduate,No,771075,0,276000,360,1,Urban,N
+662905,Male,No,0,Not Graduate,Yes,581175,487575,208000,360,1,Rural,Y
+313230,Male,Yes,1,Not Graduate,No,598725,1597725,558000,180,1,Semiurban,Y
+298673,Male,No,0,Graduate,Yes,3656250,0,384000,360,0,Urban,N
+127867,Female,No,3+,Graduate,No,693675,0,510000,360,1,Rural,Y
+822003,Male,No,0,Not Graduate,No,1360125,0,230000,360,0,Rural,N
+352816,Male,Yes,3+,Graduate,No,1181250,0,188000,360,1,Urban,N
+464615,Male,Yes,0,Graduate,No,3303675,472500,608000,360,1,Rural,N
+324269,Male,Yes,3+,Not Graduate,No,1109475,0,256000,360,,Semiurban,N
+941121,Male,Yes,1,Graduate,No,1368675,956250,660000,360,,Urban,Y
+250606,Male,No,0,Graduate,No,463500,497025,268000,360,1,Semiurban,Y
+434654,Female,No,1,Graduate,No,783225,0,310000,36,1,Semiurban,N
+543248,Female,No,0,Graduate,No,1620000,0,240000,360,1,Rural,Y
+290050,Male,No,0,Graduate,Yes,1162350,0,256000,360,1,Semiurban,Y
+224641,Male,No,0,Graduate,No,921375,775575,302000,360,1,Rural,Y
+904895,Male,Yes,2,Graduate,No,1059300,312075,300000,360,1,Semiurban,Y
+225565,Male,Yes,3+,Graduate,No,974925,407475,320000,360,0,Urban,Y
+905674,Female,No,0,Graduate,,769050,0,270000,360,1,Rural,N
+825042,Female,No,1,Graduate,No,647100,351000,180000,360,1,Urban,Y
+273451,Female,No,0,Graduate,No,728325,0,60000,360,1,Urban,Y
+347200,Male,Yes,0,Graduate,No,2507850,0,272000,360,1,Urban,Y
+429072,Male,No,0,Graduate,No,637425,417825,252000,360,1,Rural,Y
+629068,Male,Yes,0,Graduate,No,589500,500175,300000,360,1,Semiurban,Y
+283057,Male,Yes,2,Graduate,No,877500,0,180000,360,1,Semiurban,Y
+207323,Male,Yes,1,Graduate,No,618750,414450,230000,360,1,Semiurban,Y
+613080,Male,Yes,0,Graduate,No,898425,736650,414000,360,1,Semiurban,Y
+267111,Male,Yes,0,Graduate,No,698175,292500,160000,360,1,Urban,Y
+628224,Male,Yes,0,Graduate,No,3281175,0,872000,360,1,Semiurban,Y
+420994,Female,Yes,0,Not Graduate,No,922500,0,248000,360,,Rural,Y
+534151,Male,No,1,Not Graduate,Yes,911925,545850,316000,360,0,Urban,N
+385065,Male,Yes,0,Graduate,No,883575,180000,224000,360,1,Semiurban,Y
+933313,Male,Yes,2,Graduate,No,517725,221804.9973,156000,180,1,Urban,Y
+757631,Female,No,0,Graduate,No,407475,374850,108000,360,1,Urban,Y
+553405,Male,Yes,0,Graduate,No,4650075,0,0,360,1,Rural,N
+368180,Male,No,0,Graduate,No,710550,686925,178000,360,1,Rural,Y
+117149,Female,No,0,Graduate,Yes,585000,386325,198000,300,1,Semiurban,N
+445233,Male,Yes,0,Graduate,No,833400,450000,240000,360,1,Rural,Y
+140780,Female,No,0,Graduate,No,927900,0,230000,360,1,Semiurban,Y
+868682,Male,No,0,Graduate,No,2139300,0,374000,360,1,Rural,Y
+358315,Male,Yes,0,Graduate,No,691875,543600,278000,360,1,Rural,Y
+532674,Male,Yes,2,Graduate,No,990000,0,254000,360,0,Semiurban,N
+308789,Male,Yes,2,Graduate,No,709425,351000,268000,360,1,Urban,Y
+199610,Female,No,,Graduate,No,1218825,0,286000,480,0,Urban,N
+577722,Male,Yes,0,Graduate,No,536175,750150,344000,360,1,Semiurban,Y
+974482,Male,Yes,3+,Graduate,,993600,281250,220000,360,1,Urban,Y
+624130,Male,Yes,1,Graduate,No,1546875,0,400000,360,1,Semiurban,Y
+433893,Female,Yes,1,Graduate,No,1049850,0,270000,360,1,Urban,Y
+788598,Female,No,0,Graduate,No,1125000,571725,302000,480,1,Rural,N
+236833,Male,Yes,1,Graduate,No,453150,658125,226000,360,1,Urban,N
+223830,Male,Yes,0,Not Graduate,No,405000,660150,186000,360,0,Urban,N
+503523,Male,Yes,,Not Graduate,No,646875,393750,210000,360,1,Semiurban,Y
+828224,Female,No,0,Graduate,No,1125000,0,264000,360,1,Rural,Y
+317290,Male,Yes,1,Graduate,No,365625,405675,192000,360,1,Urban,Y
+796252,Male,No,0,Graduate,No,900000,562500,280000,360,1,Rural,Y
+751986,Male,No,0,Not Graduate,No,450000,0,0,360,1,Urban,N
+459157,Female,No,0,Graduate,No,846450,374850,270000,360,1,Rural,Y
+695801,Female,No,0,Graduate,No,540000,419175,208000,360,0,Urban,N
+239986,Male,No,0,Graduate,No,4552425,0,960000,360,1,Rural,N
+459198,Male,Yes,2,Not Graduate,No,1725075,0,370000,360,,Rural,Y
+334571,Female,No,0,Graduate,No,656325,0,168000,360,1,Semiurban,Y
+606209,Male,No,0,Not Graduate,No,658575,541125,222000,360,1,Semiurban,Y
+472640,Female,No,0,Graduate,No,564075,0,112000,360,1,Rural,Y
+913329,Male,Yes,2,Graduate,Yes,1292850,0,288000,84,,Rural,Y
+805098,,Yes,0,Graduate,No,556425,414675,318000,360,1,Rural,N
+204347,Male,Yes,1,Not Graduate,No,764775,369000,222000,180,1,Urban,Y
+673302,Male,Yes,2,Graduate,No,836325,0,240000,360,1,Semiurban,Y
+274582,Male,Yes,0,Graduate,No,463050,480150,176000,360,,Urban,Y
+259125,Female,No,1,Graduate,No,796725,0,224000,360,,Semiurban,Y
+304692,Male,Yes,1,Graduate,Yes,2250000,0,310000,360,1,Rural,N
+998791,Male,Yes,0,Graduate,No,540000,487575,230000,360,1,Semiurban,Y
+692678,Male,Yes,3+,Graduate,No,976950,42525,248000,360,1,Semiurban,Y
+995414,Male,Yes,2,Not Graduate,No,810225,357750,0,360,1,Rural,Y
+485781,Female,No,0,Graduate,No,712350,671625,264000,360,,Rural,Y
+655873,Male,Yes,3+,Graduate,No,3375000,0,600000,360,1,Rural,Y
+861195,Male,Yes,1,Graduate,Yes,1949850,1121175,752000,360,0,Rural,N
+966331,Male,No,0,Graduate,No,1106325,0,260000,360,0,Rural,Y
+817889,Male,Yes,0,Graduate,Yes,1309050,486000,368000,360,1,Semiurban,Y
+554873,Female,Yes,0,Graduate,No,974925,551475,220000,360,1,Urban,N
+500834,Female,No,0,Graduate,No,562500,0,134000,360,1,Urban,Y
+582328,Male,No,1,Graduate,No,986400,403425,234000,360,1,Urban,Y
+391993,Male,No,0,Graduate,No,660375,0,196000,360,1,Semiurban,Y
+590336,Male,No,,Graduate,No,637425,0,142000,360,1,Urban,Y
+935427,Male,Yes,0,Graduate,,14250825,0,980000,180,1,Urban,Y
+548233,,Yes,1,Graduate,Yes,2212425,412425,364000,180,1,Urban,Y
+584013,Male,Yes,,Graduate,Yes,1238175,1010250,140000,,1,Semiurban,Y
+106536,Male,Yes,1,Graduate,,1181250,154800,320000,360,1,Rural,Y
+110142,Male,Yes,2,Graduate,Yes,562500,1035000,352000,360,1,Rural,Y
+913134,Female,No,3+,Not Graduate,No,411750,0,0,360,0,Urban,N
+538712,Female,No,0,Graduate,No,936000,0,142000,360,1,Semiurban,Y
+966380,Male,Yes,3+,Not Graduate,No,595575,357075,346000,360,1,Rural,N
+780490,Female,No,0,Graduate,No,535050,0,92000,360,1,Rural,N
+143020,Male,Yes,1,Not Graduate,No,1024650,276525,316000,360,1,Urban,Y
+705282,Male,Yes,3+,Not Graduate,No,713925,0,148000,360,1,Semiurban,Y
+569533,Male,Yes,2,Graduate,,581175,524250,250000,360,1,Rural,Y
+113016,Male,Yes,0,Graduate,No,562275,553050,320000,360,1,Semiurban,Y
+578710,Male,Yes,,Not Graduate,No,792675,726750,304000,360,0,Rural,N
+870283,Male,Yes,2,Not Graduate,No,693675,487800,252000,360,1,Urban,Y
+110230,Male,Yes,0,Graduate,No,1424925,1031175,518000,360,,Semiurban,Y
+112377,Male,Yes,0,Graduate,No,590625,1406250,374000,360,1,Rural,Y
+239311,Male,Yes,0,Graduate,No,2043675,0,456000,360,1,Semiurban,Y
+370548,Male,No,0,Graduate,No,1968750,937575,616000,360,1,Rural,N
+701311,Male,Yes,3+,Graduate,No,599850,468675,190000,360,1,Rural,Y
+446938,Female,Yes,0,Graduate,Yes,1237500,0,210000,360,0,Rural,N
+802464,Female,Yes,0,Graduate,No,545175,113625,260000,360,1,Semiurban,Y
+131441,Female,No,,Graduate,No,857925,0,232000,180,1,Urban,Y
+827443,Male,Yes,2,Graduate,No,1874925,712575,330000,360,1,Rural,Y
+846262,Male,Yes,1,Graduate,No,871875,0,134000,360,1,Urban,N
+536112,Male,Yes,0,Not Graduate,No,675000,374850,200000,480,0,Urban,N
+631695,Male,Yes,3+,Graduate,No,1162575,712575,400000,360,1,Semiurban,Y
+452157,Female,No,1,Graduate,No,1062675,0,162000,360,1,Semiurban,N
+269057,Male,Yes,2,Graduate,No,1125000,825075,472000,360,1,Semiurban,Y
+728769,Male,Yes,0,Graduate,No,1068750,524925,260000,360,1,Urban,Y
+640419,Male,Yes,0,Graduate,No,677925,682425,190000,300,,Urban,Y
+591933,Male,No,0,Graduate,Yes,1534950,0,282000,360,1,Rural,Y
+903258,Male,No,0,Not Graduate,No,1398600,0,266000,360,1,Rural,N
+932083,Male,No,0,Graduate,No,562500,0,192000,480,1,Semiurban,N
+818519,Male,No,0,Graduate,No,1152900,0,248000,,0,Rural,N
+998269,Male,Yes,1,Graduate,No,1423125,0,350000,360,1,Semiurban,Y
+792762,Male,Yes,0,Graduate,No,4439250,1184850,1140000,360,1,Rural,N
+310148,Female,No,0,Graduate,Yes,3545775,0,110000,360,1,Semiurban,Y
+840596,Male,Yes,2,Graduate,No,1166625,0,310000,360,1,Semiurban,Y
+135318,Male,Yes,2,Graduate,Yes,2097675,1771425,760000,300,1,Rural,Y
+376802,Male,No,1,Graduate,No,688950,447075,222000,180,0,Urban,N
+844765,Female,No,0,Graduate,,621900,328275,220000,360,1,Urban,Y
+150231,Male,Yes,0,Graduate,No,1083825,207675,240000,180,1,Urban,Y
+926700,Male,Yes,3+,Graduate,No,1968750,1124100,260000,360,1,Rural,Y
+920694,Male,Yes,0,Graduate,No,969750,0,260000,360,,Semiurban,Y
+876775,Male,No,0,Graduate,No,690525,0,142000,480,1,Urban,N
+973081,Male,Yes,2,Graduate,No,1212975,0,260000,360,1,Urban,Y
+827774,Male,Yes,0,Graduate,,749925,562500,256000,360,1,Semiurban,Y
+708522,Male,No,0,Graduate,No,1336725,952200,592000,360,1,Semiurban,Y
+294172,Female,No,0,Graduate,No,1350000,0,312000,360,1,Urban,Y
+877879,Male,No,0,Graduate,Yes,1612575,0,256000,360,1,Urban,Y
+698837,Male,Yes,2,Graduate,No,1027350,0,200000,360,1,Urban,N
+782382,Male,No,1,Graduate,,825075,0,226000,180,1,Urban,Y
+258092,Male,No,0,Not Graduate,No,527850,360000,264000,360,1,Semiurban,Y
+156880,Male,Yes,0,Not Graduate,No,677250,705600,0,360,0,Urban,N
+280075,Male,Yes,0,Graduate,No,524925,543825,272000,360,1,Urban,Y
+208393,Male,Yes,0,Graduate,No,1234800,0,250000,360,1,Rural,Y
+809454,Male,No,3+,Graduate,No,2062575,0,370000,360,1,Rural,Y
+926664,Male,Yes,3+,Graduate,No,2138400,0,550000,360,1,Rural,Y
+488847,Male,Yes,0,Graduate,No,581175,475875,240000,360,,Urban,Y
+185724,Male,Yes,2,Not Graduate,No,448425,365625,226000,180,1,Semiurban,Y
+222863,Male,Yes,2,Graduate,No,697500,315000,226000,360,1,Urban,Y
+288631,Male,Yes,2,Graduate,No,737100,108900,270000,360,,Semiurban,Y
+501391,Female,No,0,Graduate,No,715500,0,142000,360,0,Urban,N
+868313,Male,Yes,0,Graduate,No,682425,328275,190000,360,1,Urban,Y
+769745,Male,No,0,Not Graduate,No,877950,374850,218000,360,1,Rural,Y
+883693,Female,No,0,Graduate,No,337500,405000,206000,360,0,Semiurban,N
+758161,Male,Yes,2,Not Graduate,No,650025,0,90000,180,0,Urban,N
+348922,Male,No,0,Not Graduate,No,619875,0,130000,300,1,Rural,N
+716546,Male,No,0,Graduate,No,562500,4500000,206000,360,1,Semiurban,Y
+707074,Female,No,0,Not Graduate,No,441675,0,106000,360,1,Semiurban,Y
+974329,Female,No,0,Graduate,Yes,1674225,0,388000,360,1,Rural,N
+233515,Female,No,0,Graduate,No,1023075,0,230000,360,1,Semiurban,Y
+490184,Male,Yes,0,Not Graduate,No,487575,540000,230000,360,1,Urban,Y
+354399,Female,No,0,Not Graduate,No,497925,0,132000,360,1,Rural,Y
+940889,Male,Yes,1,Graduate,No,1867500,0,304000,300,0,Semiurban,N
+869489,Male,Yes,3+,Graduate,No,18225000,0,720000,360,0,Rural,N
+915304,Female,No,1,Not Graduate,Yes,870075,0,124000,360,1,Semiurban,N
+762654,Male,Yes,0,Graduate,,1407600,0,320000,360,,Urban,Y
+899266,Male,Yes,0,Not Graduate,No,1371600,0,436000,360,0,Rural,N
+163356,Male,Yes,0,Not Graduate,No,506925,457425,220000,360,1,Rural,Y
+416750,Female,Yes,0,Not Graduate,No,483525,728325,356000,360,0,Semiurban,N
+340588,Female,No,0,Graduate,No,673875,0,120000,360,1,Urban,Y
+487495,Female,No,1,Graduate,No,585000,0,320000,360,1,Urban,N
+109205,Male,Yes,2,Graduate,Yes,360000,4500000,478000,360,1,Urban,N
+337603,Male,Yes,0,Graduate,No,230625,623925,224000,360,1,Rural,Y
+528285,Male,Yes,0,Graduate,No,730350,318825,276000,360,1,Semiurban,Y
+987920,Male,Yes,0,Graduate,No,1311525,0,276000,360,1,Rural,Y
+452910,Female,No,0,Not Graduate,No,612000,0,160000,,0,Urban,N
+247854,Male,Yes,0,Graduate,No,409500,386775,200000,360,1,Urban,Y
+410220,Male,Yes,1,Graduate,No,1631250,375075,220000,,0,Urban,N
+983464,Male,Yes,0,Graduate,No,3348000,0,192000,360,1,Semiurban,Y
+160205,Male,Yes,0,Graduate,No,599850,967500,242000,360,1,Rural,Y
+966210,Female,No,1,Not Graduate,No,1036350,0,162000,360,1,Rural,N
+846087,Male,Yes,2,Graduate,No,1335375,0,266000,360,1,Semiurban,Y
+502629,Male,Yes,0,Graduate,No,657000,3627.000189,174000,360,1,Rural,Y
+307534,Male,No,0,Not Graduate,No,611325,0,120000,180,1,Urban,Y
+498482,Female,No,1,Graduate,Yes,1940400,0,300000,360,1,Semiurban,Y
+253465,Male,No,0,Graduate,No,1462500,0,210000,360,0,Rural,N
+664696,Male,No,0,Graduate,,2897100,0,810000,360,1,Semiurban,Y
+198157,Male,Yes,0,Graduate,No,545625,526500,286000,360,1,Semiurban,Y
+763826,Male,No,0,Graduate,No,843750,0,200000,360,1,Urban,Y
+579487,Female,,,Graduate,No,2260575,0,0,240,1,Semiurban,Y
+651750,Male,No,0,Graduate,No,433350,416475,100000,360,1,Semiurban,Y
+645307,Male,Yes,0,Graduate,No,497925,253125,0,360,1,Urban,Y
+705493,Male,No,0,Graduate,Yes,2343600,0,374000,360,0,Urban,N
+574296,Female,Yes,0,Not Graduate,Yes,1606950,0,276000,360,1,Rural,Y
+278033,Male,No,0,Graduate,No,823500,1139400,374000,360,1,Semiurban,Y
+345909,Male,Yes,0,Graduate,No,1777725,412425,360000,360,1,Rural,Y
+474259,Male,No,3+,Not Graduate,No,1059075,448425,296000,360,1,Semiurban,Y
+297840,Male,No,1,Graduate,No,8486775,0,304000,360,1,Semiurban,Y
+898363,Male,Yes,0,Graduate,No,1649925,1874925,350000,300,,Rural,Y
+483331,Male,Yes,1,Graduate,Yes,779850,272250,260000,360,1,Rural,Y
+937832,Male,Yes,2,Not Graduate,No,1046700,0,220000,360,1,Rural,Y
+520835,Male,Yes,0,Graduate,,796275,309600,110000,360,1,Rural,N
+756128,Male,Yes,2,Graduate,No,751500,384750,300000,360,0,Rural,N
+417861,Male,No,1,Not Graduate,Yes,623025,346950,380000,360,,Semiurban,N
+574851,Male,Yes,2,Not Graduate,No,519525,282375,250000,360,0,Rural,N
+747381,Male,Yes,2,Not Graduate,No,440550,327600,120000,300,,Urban,Y
+146758,Male,Yes,0,Graduate,No,888300,389925,298000,360,0,Rural,N
+276200,Male,Yes,0,Graduate,No,558675,554850,180000,180,0,Rural,Y
+450555,Male,No,0,Graduate,Yes,1594125,0,168000,360,1,Semiurban,Y
+382444,Male,Yes,2,Graduate,No,868275,0,192000,360,1,Semiurban,Y
+240229,Male,Yes,0,Graduate,No,967725,0,236000,360,1,Urban,Y
+599454,Male,Yes,0,Graduate,No,834300,578025,346000,360,1,Urban,N
+702580,Male,No,2,Graduate,No,979650,0,272000,360,1,Rural,Y
+646187,Male,Yes,0,Graduate,No,1875150,0,320000,360,1,Semiurban,N
+527705,,Yes,0,Graduate,Yes,468675,918675,320000,360,,Semiurban,Y
+229937,Male,Yes,3+,Graduate,No,1741500,0,256000,180,1,Urban,Y
+479729,Male,Yes,0,Graduate,No,678375,492300,306000,360,1,Rural,Y
+359081,Female,No,1,Not Graduate,,1167975,0,264000,360,1,Semiurban,Y
+460926,Male,No,0,Graduate,No,937350,0,196000,360,0,Semiurban,N
+479092,Male,No,0,Graduate,No,1350000,0,280000,360,1,Rural,Y
+860441,Male,Yes,3+,Not Graduate,No,663075,374400,140000,180,0,Urban,N
+539042,,Yes,0,Graduate,No,3755700,0,220000,360,1,Semiurban,Y
+725301,Female,Yes,2,Not Graduate,,47250,656325,196000,360,1,Semiurban,Y
+903947,Male,Yes,0,Graduate,No,974925,551475,220000,360,1,Urban,N
+288283,Male,Yes,1,Graduate,Yes,776250,467775,324000,360,1,Semiurban,Y
+144899,Male,Yes,1,Not Graduate,No,596925,337500,226000,180,0,Rural,N
+367026,Male,Yes,3+,Graduate,No,1055475,0,200000,360,1,Semiurban,Y
+226001,Female,No,0,Graduate,Yes,562500,0,186000,360,,Urban,Y
+241996,Male,No,2,Graduate,No,1244700,1045800,324000,360,1,Rural,Y
+541488,Male,Yes,2,Graduate,Yes,3718125,228150,300000,360,1,Rural,Y
+452164,Male,Yes,2,Graduate,No,1507500,393750,460000,300,1,Semiurban,Y
+900615,,Yes,2,Graduate,No,646425,421200,264000,360,0,Semiurban,N
+318102,Male,Yes,1,Graduate,Yes,3750075,506250,172000,360,1,Semiurban,Y
+783776,Male,Yes,2,Graduate,No,663075,360675,0,360,1,Urban,N
+525634,Female,No,0,Not Graduate,No,978750,0,308000,360,1,Rural,Y
+716567,Male,Yes,3+,Not Graduate,No,696375,0,226000,360,1,Rural,Y
+695217,Male,Yes,0,Graduate,No,468675,708750,256000,360,1,Semiurban,Y
+865310,Male,Yes,0,Graduate,No,2437425,0,468000,360,1,Semiurban,Y
+933178,Male,Yes,2,Graduate,No,1874925,0,492000,360,1,Semiurban,Y
+566631,Male,Yes,1,Not Graduate,No,440550,548100,262000,360,1,Rural,Y
+226707,Male,No,2,Graduate,No,798075,0,160000,360,0,Rural,N
+254974,Male,Yes,1,Graduate,No,4124925,0,1000000,360,1,Urban,N
+492450,Male,Yes,2,Graduate,Yes,1031175,468675,320000,360,1,Semiurban,Y
+418941,Male,No,0,Graduate,No,547875,0,150000,360,1,Urban,N
+602254,Male,No,0,Not Graduate,No,607275,626625,192000,360,,Semiurban,Y
+418709,Male,Yes,1,Not Graduate,No,1199925,254475,372000,360,,Urban,Y
+183421,Male,No,0,Not Graduate,No,830475,0,220000,360,1,Rural,Y
+199414,Female,No,0,Not Graduate,Yes,3884175,0,450000,360,1,Semiurban,Y
+235597,Male,Yes,0,Graduate,No,809325,485325,238000,360,0,Rural,N
+465866,Female,Yes,1,Graduate,No,748350,205425,210000,84,1,Semiurban,Y
+405936,Male,Yes,0,Not Graduate,No,585000,382500,214000,360,1,Rural,Y
+703801,Male,Yes,0,Graduate,No,1040625,642825,222000,12,,Urban,Y
+409093,Male,Yes,1,Graduate,Yes,651375,0,190000,360,1,Semiurban,Y
+139130,Male,No,0,Graduate,No,1413675,993600,418000,360,0,Rural,N
+961214,Female,No,0,Graduate,No,145125,828675,226000,480,1,Rural,Y
+422312,Female,No,0,Graduate,No,710775,0,200000,360,1,Semiurban,Y
+608884,Male,Yes,2,Graduate,No,1094625,1265400,416000,360,1,Semiurban,Y
+879435,Male,Yes,1,Not Graduate,No,911250,1192950,276000,360,,Rural,N
+847209,Male,Yes,0,Not Graduate,No,858150,333675,248000,300,1,Semiurban,Y
+433064,Male,Yes,2,Graduate,No,789750,993600,486000,360,1,Rural,Y
+707044,Male,Yes,0,Graduate,No,4687425,1500075,960000,360,,Urban,Y
+578331,,No,0,Graduate,No,806175,0,192000,360,1,Urban,N
+601073,Male,Yes,0,Graduate,Yes,557775,677925,376000,360,1,Urban,Y
+675989,Female,No,1,Graduate,No,2983950,0,80000,360,1,Urban,Y
+713393,Male,No,0,Not Graduate,No,809550,289575,200000,360,1,Rural,N
+470614,Male,Yes,1,Graduate,No,1364625,450900,500000,360,1,Semiurban,Y
+254504,Male,Yes,2,Graduate,No,738675,457875,296000,360,1,Urban,Y
+406888,Male,Yes,0,Graduate,No,479250,1499850,140000,180,1,Semiurban,N
+279044,Male,No,0,Graduate,No,1308375,824850,622000,360,1,Rural,N
+821863,Male,Yes,3+,Graduate,No,779850,771300,300000,360,1,Rural,Y
+947032,Female,Yes,2,Graduate,No,456975,367200,226000,480,1,Semiurban,Y
+756833,Male,Yes,,Not Graduate,No,691650,405000,246000,360,0,Semiurban,N
+395763,Male,No,0,Graduate,No,1053675,430875,370000,360,1,Semiurban,N
+158946,Female,No,0,Not Graduate,No,765000,0,190000,360,1,Rural,N
+552637,Male,Yes,2,Not Graduate,No,493200,391950,90000,360,1,Semiurban,Y
